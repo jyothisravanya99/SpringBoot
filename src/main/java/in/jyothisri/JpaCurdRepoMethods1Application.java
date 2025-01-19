@@ -36,7 +36,7 @@ public class JpaCurdRepoMethods1Application {
 			} else if (i == 2) {
 
 				service.findAllMembers();
-			} else if (i == 3) {
+			} else if (i == 4) {
 				System.out.println(".. please enter family id .to insert.");
 				int id = sc.nextInt();
 				System.out.println(".. please enter family name to insert..");
